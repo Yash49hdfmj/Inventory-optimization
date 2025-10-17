@@ -7,9 +7,6 @@ This project focuses on leveraging **data-driven insights and advanced forecasti
 
 ## Tools & Technologies Used:
 
-  - **Excel**
-  - **SQL**
-  - **Power BI**
   - **Python**
   - **Time Forecasting Models (ARIMA, Holt-Winters, VECM, Random Forest)**
 
