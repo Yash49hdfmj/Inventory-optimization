@@ -1,6 +1,8 @@
 
 # Store Inventory Demand Analysis & Optimization
-src/utils/vitamins-health-shop-shelves-pharmaceutical-products-vitamin-vitamin-supplements-48826534.webp
+
+![InventoryOptimization](src/utils/vitamins-health-shop-shelves-pharmaceutical-products-vitamin-vitamin-supplements-48826534.webp)
+
 Welcome to the **Store Inventory Demand Analysis & Optimization** project, a repository created by **Yash Gadhave**.
 
 This project focuses on leveraging **data-driven insights and advanced forecasting techniques** to streamline and optimize store inventory management. My goal was to enhance operational efficiency, significantly reduce costs, and guarantee optimal stock availability of essential supplies, specifically focusing on healthcare institutions. The solution seamlessly integrates **data analytics, statistical modeling, and optimization strategies**.
